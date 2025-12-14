@@ -1,0 +1,58 @@
+[
+  {
+    "lineId": "001",
+    "speaker": "PersonalFemale",
+    "emotion": "playful",
+    "text": "Good morning. You look a little better today.",
+    "pauseMs": 500
+  },
+  {
+    "lineId": "002",
+    "speaker": "Male",
+    "emotion": "neutral",
+    "text": "Do I? Honestly, it still feels like I’m half dreaming.",
+    "pauseMs": 400
+  },
+  {
+    "lineId": "003",
+    "speaker": "PersonalFemale",
+    "emotion": "gentle",
+    "text": "You don’t have to understand everything right now. Just focus on what’s in front of you.",
+    "pauseMs": 500
+  },
+  {
+    "lineId": "004",
+    "speaker": "Female",
+    "emotion": "analytical",
+    "text": "Based on your vitals, recovery is progressing well. You’re more stable than yesterday.",
+    "pauseMs": 400
+  },
+  {
+    "lineId": "005",
+    "speaker": "Male",
+    "emotion": "confused",
+    "text": "But there’s barely any pain. I was injured… wasn’t I?",
+    "pauseMs": 500
+  },
+  {
+    "lineId": "006",
+    "speaker": "Female",
+    "emotion": "informative",
+    "text": "It wasn’t just treatment. We also accelerated cellular regeneration.",
+    "pauseMs": 350
+  },
+  {
+    "lineId": "007",
+    "speaker": "Male",
+    "emotion": "puzzled",
+    "text": "Regeneration… was it really that serious?",
+    "pauseMs": 350
+  },
+  {
+    "lineId": "008",
+    "speaker": "Female",
+    "emotion": "caring",
+    "text": "Yes. That’s why you’re here now. We reached you just in time.",
+    "pauseMs": 0
+  }
+]

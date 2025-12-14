@@ -1,0 +1,35 @@
+defaults:
+  output_format: Riff24Khz16BitMonoPcm
+  pause_ms: 400
+  fallback_voice: ja-JP-AoiNeural
+  rate: 0%
+  pitch: 0%
+  volume: 0%
+  enable_style: false
+
+voices:
+  Female:
+    voice_name: ja-JP-NanamiNeural
+    rate: 0%
+    pitch: 0%
+    volume: 0%
+    enable_style: false
+    file_tag: F
+  Male:
+    voice_name: ja-JP-KeitaNeural
+    rate: 0%
+    pitch: 0%
+    volume: 0%
+    enable_style: false
+    file_tag: M
+  PersonalFemale:
+    voice_name: DragonLatestNeural
+    speaker_profile_id: YOUR_SPEAKER_PROFILE_ID
+    rate: 0%
+    pitch: 0%
+    volume: 0%
+    file_tag: M
+
+aliases:
+  奈々美: Female
+  アキラ: Male
